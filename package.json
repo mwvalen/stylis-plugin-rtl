@@ -1,6 +1,6 @@
 {
-  "name": "stylis-plugin-rtl",
-  "version": "2.1.1",
+  "name": "@mwvalen/stylis-plugin-rtl",
+  "version": "2.1.3",
   "description": "Fork of stylis-rtl, uses cssjanus under the hood to flip style orientations for RTL",
   "module": "dist/stylis-rtl.js",
   "main": "dist/cjs/stylis-rtl.js",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/styled-components/stylis-plugin-rtl.git"
+    "url": "git+https://github.com/mwvalen/stylis-plugin-rtl"
   },
   "keywords": [
     "rtl",
@@ -30,7 +30,7 @@
   ],
   "author": "Jop de Klein",
   "contributors": [
-    "Evan Jacobs <probablyup@gmail.com> (https://probablyup.com)"
+    "MWV <mwillvalentine@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
